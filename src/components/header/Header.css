@@ -1,0 +1,32 @@
+.headerContainer{
+    width: 60%;
+    margin: auto;
+    background: white;
+    margin-bottom: 100px;
+}
+
+
+.headerContainer .title{
+    display: flex;
+    margin-top: 100px;
+    
+}
+
+.headerContainer .title img{
+    width: 60px;
+    height: 60px;
+    margin: auto 10px; 
+    
+}
+
+.headerContainer .title h2{
+    margin: auto 10px;
+    font-weight: normal;
+    font-size: 1.8rem;
+}
+
+.border {
+    border-right: 2.5px solid #cc0000;
+    margin: 4px 10px;
+}
+

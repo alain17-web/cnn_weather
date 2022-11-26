@@ -1,0 +1,30 @@
+
+
+.App {
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+    
+}
+
+
+.close{
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.close button {
+    padding: 12px;
+    cursor: pointer;
+    border: 1px solid #cc0000;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 14px;
+}
+    
+    

@@ -1,0 +1,14 @@
+
+
+.getWeather button{
+    display: flex;
+    width: 20%;
+    margin: 200px auto;
+    background-color: white;
+    padding: 25px;
+    font-size: 24px;
+    font-weight: bold;
+    border: 3px solid #cc0000;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,57 @@
+.city{
+    width: 60%;
+    margin: 10px auto;
+    height:80px;
+    border-left: 5px solid #cc0000;
+    display: flex;
+    align-items: center;
+}
+
+.cityName{
+    width: 55%;
+    background: white;
+    height: 80px;
+  
+}
+
+.cityName h1{
+    margin-left: 200px;
+    font-size: 2.3em;
+    
+}
+
+.icons{
+    
+    margin-left: 6px;
+    background: white;
+    width: 15%;
+    height: 80px;
+
+}
+
+.icon{
+    padding: 20px 30px 20px 30px;
+    
+}
+
+.hiLos{
+    
+    margin-left: 6px;
+    background: white;
+    width: 30%;
+    height: 80px;
+    
+}
+
+.hiLos h2{
+    text-align: center;
+    font-weight: normal;
+    font-size: 2em;
+}
+
+.hiLos span{
+    margin-left: 15px;
+    margin-right: 15px;
+    color: grey;
+}
+
