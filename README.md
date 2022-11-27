@@ -1,6 +1,7 @@
 <h1>Non Responsive Copy of CNN Weather in React JS with API Openweathermap and Axios</h1>
 
 
+<img width="1203" alt="Capture d’écran 2022-11-27 à 20 34 44" src="https://user-images.githubusercontent.com/60004408/204155919-5aa557ef-51a9-4a81-88c2-09c496f610fa.png">
 
 
 
