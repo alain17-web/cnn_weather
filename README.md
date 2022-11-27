@@ -1,4 +1,4 @@
-<h1>Copy of CNN Weather in React JS</h1>
+<h1>Non Responsive Copy of CNN Weather in React JS with API Openweathermap and Axios</h1>
 
 
 
